@@ -37,4 +37,10 @@ public class Student {
     public void  findHeigh(){
 
     }
+
+    public void findHeigha(){
+
+    }
+
+
 }
