@@ -22,3 +22,9 @@ public class Student {
 
     private int age;
 }
+
+
+public void static findName(){
+    System.out.print("nihao");
+
+}
