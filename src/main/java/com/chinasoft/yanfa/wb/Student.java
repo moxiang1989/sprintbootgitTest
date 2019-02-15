@@ -25,5 +25,10 @@ public class Student {
         System.out.print("nihao");
 
     }
+    
+    public void findAge(){
+    
+       
+    }
 
 }
