@@ -11,4 +11,5 @@ public class Son {
     }
 
     private String Heigth;
+    private String name;
 }
