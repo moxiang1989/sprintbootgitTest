@@ -9,4 +9,5 @@ public class Son {
     public static void main(String[] args) {
         System.out.println("xxxxxxxxxxxxxxxx");
     }
+    private String name;
 }
